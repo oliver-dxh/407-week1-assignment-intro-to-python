@@ -1,1 +1,1 @@
-# week1-assignment-intro-to-python
+# Week 1: Introduction to Python for ML
